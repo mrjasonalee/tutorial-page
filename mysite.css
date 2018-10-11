@@ -1,10 +1,16 @@
-/* header {
-background: url('https://www.thecoli.com/media/wow-shoot-dance-remix.16573/full?d=1518225925');
-height: 500px
-} */
-
-#trukknorrisgif{
-    margin-top: 0;
-    margin-bottom: 0;
-    position: absolute;
+.bg {
+  background: url("./assets/marc-schafer-1089653-unsplash.jpg");
+  background-size: cover; 
+  height: 500px; 
+}
+footer {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  height: 15px;
+  margin: 0;
+  padding: 0;
+}
+footer p{
+  display: inline;
 }
